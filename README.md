@@ -1,7 +1,7 @@
 # Security-Incident-Response-Automation
 Automated, event-driven AWS security incident response system using Python Lambda functions — detects, investigates, contains, and notifies on unauthorized access, unusual API activity, and S3 misconfigurations in under 20 minutes.
 # 🛡️ Security Incident Response Automation
-### CLCS 660 — AI-Based Cloud Automation and Scripting | Unit 7 Lab
+### CLCS AI-Based Cloud Automation and Scripting | Lab
 
 > An event-driven, serverless security automation system built on AWS that reduces incident response time from **4–6 hours** to **under 20 minutes** using Python, Lambda, and cloud-native services.
 
